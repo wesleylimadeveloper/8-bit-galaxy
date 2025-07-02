@@ -1,7 +1,6 @@
 # Sobre o Projeto
 
-🚀 Space Shooter - Jogo de Nave Espacial com Phaser.js
-Um jogo estilo arcade desenvolvido com Phaser.js, onde você controla uma nave espacial em meio ao espaço sideral. Seu objetivo é simples: sobreviver e destruir o maior número possível de asteroides.
+🚀 Space Shooter - Jogo de Nave Espacial com Phaser.js. Um jogo estilo arcade desenvolvido com Phaser.js, onde você controla uma nave espacial em meio ao espaço sideral. Seu objetivo é simples: sobreviver e destruir o maior número possível de asteroides.
 
 <div style="display: inline_block"><br>
     <img align="center" height=200 width=200 alt="JavaScript" src="https://github.com/wesleylimadeveloper/8-bit-galaxy/blob/main/public/assets/intro.png" />
